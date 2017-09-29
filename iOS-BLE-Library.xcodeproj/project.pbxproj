@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		3A628E401F56C3A300587600 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A628E3F1F56C3A300587600 /* AppDelegate.swift */; };
-		3A628E421F56C3A300587600 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A628E411F56C3A300587600 /* ViewController.swift */; };
 		3A628E451F56C3A300587600 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A628E431F56C3A300587600 /* Main.storyboard */; };
 		3A628E471F56C3A300587600 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A628E461F56C3A300587600 /* Assets.xcassets */; };
 		3A628E4A1F56C3A300587600 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A628E481F56C3A300587600 /* LaunchScreen.storyboard */; };
@@ -21,6 +20,7 @@
 		3A628E781F56CA7700587600 /* FioTBluetoothCharacteristic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A628E771F56CA7700587600 /* FioTBluetoothCharacteristic.swift */; };
 		3A628E7A1F57B06300587600 /* FioTBluetoothDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A628E791F57B06300587600 /* FioTBluetoothDevice.swift */; };
 		3A628E7D1F57EF2C00587600 /* Data+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A628E7C1F57EF2C00587600 /* Data+Utils.swift */; };
+		673E6D861F7E584E00AD1067 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A628E411F56C3A300587600 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -300,9 +300,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A628E781F56CA7700587600 /* FioTBluetoothCharacteristic.swift in Sources */,
-				3A628E421F56C3A300587600 /* ViewController.swift in Sources */,
 				3A628E401F56C3A300587600 /* AppDelegate.swift in Sources */,
 				3A628E721F56C95200587600 /* FioTScanManager.swift in Sources */,
+				673E6D861F7E584E00AD1067 /* ViewController.swift in Sources */,
 				3A628E7D1F57EF2C00587600 /* Data+Utils.swift in Sources */,
 				3A628E7A1F57B06300587600 /* FioTBluetoothDevice.swift in Sources */,
 				3A628E701F56C43000587600 /* FioTBluetoothLE.swift in Sources */,
